@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm an aspiring technopreneur interested in software development and data science.
+In love with technology. 
+https://www.linkedin.com/in/shubhamperiwal/ 
 
 <!--
 **shubhamperiwal/shubhamperiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
