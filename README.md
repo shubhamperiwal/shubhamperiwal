@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 In love with technology. 
-https://www.linkedin.com/in/shubhamperiwal/ 
+
+Website: http://shubhamperiwal.com/#/ 
+LinkedIn: https://www.linkedin.com/in/shubhamperiwal/ 
 
 <!--
 **shubhamperiwal/shubhamperiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
